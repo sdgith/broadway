@@ -6,3 +6,38 @@ body{
 .links {
   background-image: url("../images/the-flatiron-building.png");
 }
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+#design {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+#footer{
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+
+}
+
+a{
+  color:white;
+  font-size: 18px;
+}
